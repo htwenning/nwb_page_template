@@ -1,0 +1,1 @@
+nwb react run --config nwb.dev.config.js app.js
